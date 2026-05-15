@@ -32,13 +32,7 @@
     <img src="https://img.shields.io/badge/GitHub-abdallh249-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://www.facebook.com/abd.badran.5">
-    <img src="https://img.shields.io/badge/Facebook-Abdallah%20Badran-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-
-  <a href="https://www.instagram.com/abd.373/">
-    <img src="https://img.shields.io/badge/Instagram-abd.373-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  
 </p>
 
 <!--
