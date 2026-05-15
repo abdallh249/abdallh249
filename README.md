@@ -17,9 +17,29 @@
   <img src="https://skillicons.dev/icons?i=java,python,cpp,c,mysql,git,github,vscode" />
 </p>
 
-## 📫 Contact
-- Email: **abdbadran518@gmail.com**
-- LinkedIn: [abd-badran](https://www.linkedin.com/in/abd-badran-555a0039b/)
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:abdbadran518@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abdbadran518%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/abd-badran-555a0039b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdallah%20Badran-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/abdallh249">
+    <img src="https://img.shields.io/badge/GitHub-abdallh249-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.facebook.com/abd.badran.5">
+    <img src="https://img.shields.io/badge/Facebook-Abdallah%20Badran-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/abd.373/">
+    <img src="https://img.shields.io/badge/Instagram-abd.373-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 <!--
 **abdallh249/abdallh249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
