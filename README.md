@@ -13,8 +13,14 @@
 - 🌱 Currently learning Java, Python, C++, and Databases
 
 ## 🛠️ Skills
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,mysql,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,mysql,git,github,vscode,docker,jenkins" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-Important-success?style=for-the-badge"/>
 </p>
 
 ## 🤝 Connect With Me
