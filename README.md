@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 - 🎓 CS Student at An-Najah National University
 - 💻 Interested in Software Development
-- 🌱 Currently learning Java, Python, C++, and Databases
+
 
 ## 🛠️ Skills
 <p align="center">
